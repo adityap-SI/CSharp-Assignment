@@ -1,0 +1,14 @@
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\bin\Debug\net8.0\Shopping Cart.exe
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\bin\Debug\net8.0\Shopping Cart.deps.json
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\bin\Debug\net8.0\Shopping Cart.runtimeconfig.json
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\bin\Debug\net8.0\Shopping Cart.dll
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\bin\Debug\net8.0\Shopping Cart.pdb
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\obj\Debug\net8.0\Shopping Cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\obj\Debug\net8.0\Shopping Cart.AssemblyInfoInputs.cache
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\obj\Debug\net8.0\Shopping Cart.AssemblyInfo.cs
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\obj\Debug\net8.0\Shopping Cart.csproj.CoreCompileInputs.cache
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\obj\Debug\net8.0\Shopping Cart.dll
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\obj\Debug\net8.0\refint\Shopping Cart.dll
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\obj\Debug\net8.0\Shopping Cart.pdb
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\obj\Debug\net8.0\Shopping Cart.genruntimeconfig.cache
+C:\Users\AP\source\repos\Day 2 Assignment\Shopping Cart\obj\Debug\net8.0\ref\Shopping Cart.dll

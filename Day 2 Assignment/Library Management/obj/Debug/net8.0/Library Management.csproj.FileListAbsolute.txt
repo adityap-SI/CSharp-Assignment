@@ -1,0 +1,14 @@
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\bin\Debug\net8.0\Library Management.exe
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\bin\Debug\net8.0\Library Management.deps.json
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\bin\Debug\net8.0\Library Management.runtimeconfig.json
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\bin\Debug\net8.0\Library Management.dll
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\bin\Debug\net8.0\Library Management.pdb
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\obj\Debug\net8.0\Library Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\obj\Debug\net8.0\Library Management.AssemblyInfoInputs.cache
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\obj\Debug\net8.0\Library Management.AssemblyInfo.cs
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\obj\Debug\net8.0\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\obj\Debug\net8.0\Library Management.dll
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\obj\Debug\net8.0\refint\Library Management.dll
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\obj\Debug\net8.0\Library Management.pdb
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\obj\Debug\net8.0\Library Management.genruntimeconfig.cache
+C:\Users\AP\source\repos\Day 2 Assignment\Library Management\obj\Debug\net8.0\ref\Library Management.dll

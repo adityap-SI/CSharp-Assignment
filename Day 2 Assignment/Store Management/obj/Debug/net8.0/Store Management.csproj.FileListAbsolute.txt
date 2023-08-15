@@ -1,0 +1,14 @@
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\bin\Debug\net8.0\Store Management.exe
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\bin\Debug\net8.0\Store Management.deps.json
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\bin\Debug\net8.0\Store Management.runtimeconfig.json
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\bin\Debug\net8.0\Store Management.dll
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\bin\Debug\net8.0\Store Management.pdb
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\obj\Debug\net8.0\Store Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\obj\Debug\net8.0\Store Management.AssemblyInfoInputs.cache
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\obj\Debug\net8.0\Store Management.AssemblyInfo.cs
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\obj\Debug\net8.0\Store Management.csproj.CoreCompileInputs.cache
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\obj\Debug\net8.0\Store Management.dll
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\obj\Debug\net8.0\refint\Store Management.dll
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\obj\Debug\net8.0\Store Management.pdb
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\obj\Debug\net8.0\Store Management.genruntimeconfig.cache
+C:\Users\AP\source\repos\Day 2 Assignment\Store Management\obj\Debug\net8.0\ref\Store Management.dll
