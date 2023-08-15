@@ -1,0 +1,15 @@
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\bin\Debug\net8.0\Student Grade.exe
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\bin\Debug\net8.0\Student Grade.deps.json
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\bin\Debug\net8.0\Student Grade.runtimeconfig.json
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\bin\Debug\net8.0\Student Grade.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\bin\Debug\net8.0\Student Grade.pdb
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\obj\Debug\net8.0\Student Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\obj\Debug\net8.0\Student Grade.AssemblyInfoInputs.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\obj\Debug\net8.0\Student Grade.AssemblyInfo.cs
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\obj\Debug\net8.0\Student Grade.csproj.CoreCompileInputs.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\obj\Debug\net8.0\Student Grade.sourcelink.json
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\obj\Debug\net8.0\Student Grade.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\obj\Debug\net8.0\refint\Student Grade.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\obj\Debug\net8.0\Student Grade.pdb
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\obj\Debug\net8.0\Student Grade.genruntimeconfig.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Student Grade\obj\Debug\net8.0\ref\Student Grade.dll

@@ -1,0 +1,15 @@
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\bin\Debug\net8.0\Employee Management.exe
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\bin\Debug\net8.0\Employee Management.deps.json
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\bin\Debug\net8.0\Employee Management.runtimeconfig.json
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\bin\Debug\net8.0\Employee Management.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\bin\Debug\net8.0\Employee Management.pdb
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\obj\Debug\net8.0\Employee Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\obj\Debug\net8.0\Employee Management.AssemblyInfoInputs.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\obj\Debug\net8.0\Employee Management.AssemblyInfo.cs
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\obj\Debug\net8.0\Employee Management.csproj.CoreCompileInputs.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\obj\Debug\net8.0\Employee Management.sourcelink.json
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\obj\Debug\net8.0\Employee Management.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\obj\Debug\net8.0\refint\Employee Management.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\obj\Debug\net8.0\Employee Management.pdb
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\obj\Debug\net8.0\Employee Management.genruntimeconfig.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Employee Management\obj\Debug\net8.0\ref\Employee Management.dll

@@ -1,0 +1,15 @@
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\bin\Debug\net8.0\Shape Interface.exe
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\bin\Debug\net8.0\Shape Interface.deps.json
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\bin\Debug\net8.0\Shape Interface.runtimeconfig.json
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\bin\Debug\net8.0\Shape Interface.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\bin\Debug\net8.0\Shape Interface.pdb
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\obj\Debug\net8.0\Shape Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\obj\Debug\net8.0\Shape Interface.AssemblyInfoInputs.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\obj\Debug\net8.0\Shape Interface.AssemblyInfo.cs
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\obj\Debug\net8.0\Shape Interface.csproj.CoreCompileInputs.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\obj\Debug\net8.0\Shape Interface.sourcelink.json
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\obj\Debug\net8.0\Shape Interface.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\obj\Debug\net8.0\refint\Shape Interface.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\obj\Debug\net8.0\Shape Interface.pdb
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\obj\Debug\net8.0\Shape Interface.genruntimeconfig.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Shape Interface\obj\Debug\net8.0\ref\Shape Interface.dll

@@ -1,0 +1,15 @@
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\bin\Debug\net8.0\Product Management.exe
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\bin\Debug\net8.0\Product Management.deps.json
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\bin\Debug\net8.0\Product Management.runtimeconfig.json
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\bin\Debug\net8.0\Product Management.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\bin\Debug\net8.0\Product Management.pdb
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\obj\Debug\net8.0\Product Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\obj\Debug\net8.0\Product Management.AssemblyInfoInputs.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\obj\Debug\net8.0\Product Management.AssemblyInfo.cs
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\obj\Debug\net8.0\Product Management.csproj.CoreCompileInputs.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\obj\Debug\net8.0\Product Management.sourcelink.json
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\obj\Debug\net8.0\Product Management.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\obj\Debug\net8.0\refint\Product Management.dll
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\obj\Debug\net8.0\Product Management.pdb
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\obj\Debug\net8.0\Product Management.genruntimeconfig.cache
+C:\Users\AP\source\repos\Day 3 Assignment\Product Management\obj\Debug\net8.0\ref\Product Management.dll
